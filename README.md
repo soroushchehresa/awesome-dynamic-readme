@@ -1,6 +1,10 @@
+<div align="center">
+  
 # Awesome Dynamic Readme [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/github/license/soroushchehresa/awesome-dynamic-readme?">
-> A curated list of awesome GitHub dynamic READMEs.
+A curated list of awesome GitHub dynamic READMEs.
+</div>
 
+<br>
 
 - [github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin) - Dynamically generated images from your LinkedIn profile on your GitHub READMEs.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes.
