@@ -6,7 +6,7 @@
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes.
 - [github-readme-medium](https://github.com/omidnikrah/github-readme-medium) - Dynamically generated your latest Medium article on your GitHub readmes.
 - [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed.
-- [github-readme-medium](https://github.com/caneco/laravel-github-profile-view-counter) - This package will allows you to track Github profile views and display them in your profile readme, for free.
+- [laravel-github-profile-view-counter](https://github.com/caneco/laravel-github-profile-view-counter) - This package will allows you to track Github profile views and display them in your profile readme, for free.
 - [waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme.
 - [github-readme-npm-downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show npm packages downloads in GitHub README.
