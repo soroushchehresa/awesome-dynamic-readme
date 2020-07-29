@@ -8,7 +8,6 @@ A curated list of awesome GitHub dynamic READMEs.
 
 <br>
 <br>
-<br>
 
 - [github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin) - Dynamically generated images from your LinkedIn profile on your GitHub READMEs.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes.
