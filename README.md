@@ -1,4 +1,4 @@
-# Awesome Dynamic Readme [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/github/license/soroushchehresa/awesome-dynamic-readme">
+# Awesome Dynamic Readme [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/github/license/soroushchehresa/awesome-dynamic-readme?">
 > A curated list of awesome GitHub dynamic READMEs.
 
 
